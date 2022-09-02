@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to SubTko by @sumgr0!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Visit Twitter: <code>https://twitter.com/sumgr0</code>
         </p>
       </main>
 
